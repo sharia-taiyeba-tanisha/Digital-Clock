@@ -1,0 +1,18 @@
+body {
+
+  background: url('https://images.pexels.com/photos/3661445/pexels-photo-3661445.jpeg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.317);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+  font-size: 40px;
+  margin: 150px auto;
+  max-width: 800px; 
+  padding: 30px;
+  text-align: center;
+}
